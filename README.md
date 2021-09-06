@@ -45,8 +45,8 @@ INVENTORY MANAGMENT SYSTEM By VAIDEHEE DALVI. This repository contains my projec
    
    
    # other useful links
-   https://www.linkedin.com/in/vaidehee-d-657213191/
-   https://twitter.com/14_dalvi
+   1.https://www.linkedin.com/in/vaidehee-d-657213191/
+     2.https://twitter.com/14_dalvi
    
 
 
