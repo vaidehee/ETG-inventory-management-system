@@ -37,11 +37,17 @@ INVENTORY MANAGMENT SYSTEM By VAIDEHEE DALVI. This repository contains my projec
    This project is in jupyter notebook you can also use google collab as simulteneous.
    
    # Conclusion
-   There are various ways companies control their inventory, finding the correct program/software that suits the need of each business takes careful consideration. However, from our perspective the outcome of inventory control systems are heavily influenced by the users, for example customers, as well store employess.In our project we did the main parts for our inventory management system
+   There are various ways companies control their inventory, finding the correct program/software that suits the need of each business takes careful consideration. However, from my perspective the outcome of inventory control systems are heavily influenced by the users, for example customers, as well store employess.In my project i did the main parts for my inventory management system
 
  # OUTPUT
    the below ss is of bill
    ![image](https://user-images.githubusercontent.com/78019245/132199720-33e12352-5637-4030-9ba2-706c07119ab1.png)
+   
+   
+   # other useful links
+   https://www.linkedin.com/in/vaidehee-d-657213191/
+   https://twitter.com/14_dalvi
+   
 
 
    
